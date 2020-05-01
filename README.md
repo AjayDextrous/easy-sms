@@ -1,2 +1,2 @@
 # easy-sms
-A better alternnative to your system messaging app
+A better alternative to your system messaging app
